@@ -19,7 +19,7 @@ Pour ce premier exercice, créez un dossier `td1-ex1` sur votre poste.
 
 Une fois dans ce dossier, créer un repository Git vide et ajouter votre copie du dépôt de l'exercice comme remote sous le nom de `origin`.
 
-Avant de travailler sur le code, faites un `git pull origin master` pour récupérer la branche `master` de votre dépôt distant.
+Avant de travailler sur le code, faites un `git pull origin master` pour récupérer la branche `master` de votre dépôt distant, puis éxécutez le script [`./setup-repo.sh`](./setup-repo.sh).
 
 Quand celà est fait, créer un fichier `etudiant.txt` comportant votre nom, votre prénom et votre groupe.
 
