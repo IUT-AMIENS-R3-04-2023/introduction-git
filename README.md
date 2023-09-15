@@ -21,7 +21,11 @@ Une fois dans ce dossier, créer un repository Git vide et ajouter votre copie d
 
 Avant de travailler sur le code, faites un `git pull origin master` pour récupérer la branche `master` de votre dépôt distant.
 
-Exécuter la commande `chmod +x ./setup-repo` puis éxécutez le script [`./setup-repo.sh`](./setup-repo.sh).
+Sous Linux :
+- Exécuter la commande `chmod +x ./setup-repo` puis éxécutez le script [`./setup-repo.sh`](./setup-repo.sh).
+
+Sous Windows
+- Exécuter le script [`./setup-repo.bat`](./setup-repo.bat).
 
 Quand celà est fait, créer un fichier `etudiant.txt` comportant votre nom, votre prénom et votre groupe.
 
